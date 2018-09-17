@@ -1,0 +1,822 @@
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ console.log("works")
+bash: syntax error near unexpected token `"works"'
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ ^C
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ ^C
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ console.log('works')
+bash: syntax error near unexpected token `'works''
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm start
+
+
+> webpack-project@1.0.0 start C:\Users\Java EE Student 1\Desktop\Новая п                                                                                                                        апка\webpack-project
+> webpack-dev-server
+
+"webpack-dev-server" -- ?---- ----?--- --- ---?-
+--------, -?--?-- -??--- --- ------ ?---.
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! webpack-project@1.0.0 start: `webpack-dev-server`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the webpack-project@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additi                                                                                                                        onal logging output above.
+npm WARN Local package.json exists, but node_modules missing, did you me                                                                                                                        an to install?
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Java EE Student 1\AppData\Roaming\npm-cache\_logs\                                                                                                                        2018-09-17T16_28_11_371Z-debug.log
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm i --save-dev webpack-dev-server
+
+
+npm WARN rollback Rolling back readable-stream@2.3.6 failed (this is pro                                                                                                                        bably harmless): EPERM: operation not permitted, rmdir 'C:\Users\Java EE                                                                                                                         Student 1\Desktop\Новая папка\webpack-project\node_modules\fsevents\nod                                                                                                                        e_modules'
+npm notice created a lockfile as package-lock.json. You should commit th                                                                                                                        is file.
+npm WARN webpack-dev-server@3.1.8 requires a peer of webpack@^4.0.0 but                                                                                                                         none is installed. You must install peer dependencies yourself.
+npm WARN webpack-dev-middleware@3.2.0 requires a peer of webpack@^4.0.0                                                                                                                         but none is installed. You must install peer dependencies yourself.
+npm WARN webpack-project@1.0.0 No description
+npm WARN webpack-project@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_mod                                                                                                                        ules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for f                                                                                                                        sevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win3                                                                                                                        2","arch":"x64"})
+
++ webpack-dev-server@3.1.8
+added 361 packages in 53.169s
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm start
+
+
+> webpack-project@1.0.0 start C:\Users\Java EE Student 1\Desktop\Новая п                                                                                                                        апка\webpack-project
+> webpack-dev-server
+
+internal/modules/cjs/loader.js:573
+    throw err;
+    ^
+
+Error: Cannot find module 'webpack'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:                                                                                                                        571:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:497:25)
+    at Module.require (internal/modules/cjs/loader.js:626:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\Java EE Student 1\Desktop\Новая папк                                                                                                                        а\webpack-project\node_modules\webpack-dev-server\bin\webpack-dev-server                                                                                                                        .js:26:17)
+    at Module._compile (internal/modules/cjs/loader.js:678:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:689                                                                                                                        :10)
+    at Module.load (internal/modules/cjs/loader.js:589:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:528:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:520:3)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! webpack-project@1.0.0 start: `webpack-dev-server`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the webpack-project@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additi                                                                                                                        onal logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Java EE Student 1\AppData\Roaming\npm-cache\_logs\                                                                                                                        2018-09-17T16_33_01_085Z-debug.log
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm i --save-dev webpack
+npm WARN rollback Rolling back node-pre-gyp@0.10.0 failed (this is proba                                                                                                                        bly harmless): EPERM: operation not permitted, rmdir 'C:\Users\Java EE S                                                                                                                        tudent 1\Desktop\Новая папка\webpack-project\node_modules\fsevents\node_                                                                                                                        modules'
+npm WARN webpack-project@1.0.0 No description
+npm WARN webpack-project@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_mod                                                                                                                        ules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for f                                                                                                                        sevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win3                                                                                                                        2","arch":"x64"})
+
++ webpack@4.19.0
+added 157 packages in 125.351s
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm i --save-dev webpack
+npm WARN rollback Rolling back readable-stream@2.3.6 failed (this is pro                                                                                                                        bably harmless): EPERM: operation not permitted, rmdir 'C:\Users\Java EE                                                                                                                         Student 1\Desktop\Новая папка\webpack-project\node_modules\fsevents\nod                                                                                                                        e_modules'
+npm WARN webpack-project@1.0.0 No description
+npm WARN webpack-project@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_mod                                                                                                                        ules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for f                                                                                                                        sevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win3                                                                                                                        2","arch":"x64"})
+
++ webpack@4.19.0
+updated 1 package in 17.944s
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm i --save-dev webpack-project
+npm ERR! code ENOSELF
+npm ERR! Refusing to install package with name "webpack-project" under a                                                                                                                         package
+npm ERR! also called "webpack-project". Did you name your project the sa                                                                                                                        me
+npm ERR! as the dependency you're installing?
+npm ERR!
+npm ERR! For more information, see:
+npm ERR!     <https://docs.npmjs.com/cli/install#limitations-of-npms-ins                                                                                                                        tall-algorithm>
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Java EE Student 1\AppData\Roaming\npm-cache\_logs\                                                                                                                        2018-09-17T16_38_23_011Z-debug.log
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm start
+
+> webpack-project@1.0.0 start C:\Users\Java EE Student 1\Desktop\Новая п                                                                                                                        апка\webpack-project
+> webpack-dev-server
+
+The CLI moved into a separate package: webpack-cli
+Please install 'webpack-cli' in addition to webpack itself to use the CL                                                                                                                        I
+-> When using npm: npm i -D webpack-cli
+-> When using yarn: yarn add -D webpack-cli
+internal/modules/cjs/loader.js:573
+    throw err;
+    ^
+
+Error: Cannot find module 'webpack-cli/bin/config-yargs'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:                                                                                                                        571:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:497:25)
+    at Module.require (internal/modules/cjs/loader.js:626:17)
+    at require (internal/modules/cjs/helpers.js:20:18)
+    at Object.<anonymous> (C:\Users\Java EE Student 1\Desktop\Новая папк                                                                                                                        а\webpack-project\node_modules\webpack-dev-server\bin\webpack-dev-server                                                                                                                        .js:84:1)
+    at Module._compile (internal/modules/cjs/loader.js:678:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:689                                                                                                                        :10)
+    at Module.load (internal/modules/cjs/loader.js:589:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:528:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:520:3)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! webpack-project@1.0.0 start: `webpack-dev-server`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the webpack-project@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additi                                                                                                                        onal logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Java EE Student 1\AppData\Roaming\npm-cache\_logs\                                                                                                                        2018-09-17T16_43_07_260Z-debug.log
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ ^C
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm i --save-dev  webpack-cli
+
+npm WARN webpack-project@1.0.0 No description
+npm WARN webpack-project@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_mod                                                                                                                        ules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for f                                                                                                                        sevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win3                                                                                                                        2","arch":"x64"})
+
++ webpack-cli@3.1.0
+added 36 packages in 24.624s
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ npm start
+
+> webpack-project@1.0.0 start C:\Users\Java EE Student 1\Desktop\Новая п                                                                                                                        апка\webpack-project
+> webpack-dev-server
+
+i ?wds?: Project is running at http://localhost:8080/
+i ?wds?: webpack output is served from /
+! ?wdm?: Hash: c63c00c6728b073d5797
+Version: webpack 4.19.0
+Time: 5572ms
+Built at: 2018-09-17 19:46:35
+    Asset     Size  Chunks             Chunk Names
+bundle.js  139 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40                                                                                                                         bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [bui                                                                                                                        lt]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 0 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production                                                                                                                        ' for this value. Set 'mode' option to 'development' or 'production' to                                                                                                                         enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn mor                                                                                                                        e: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-                                                                                                                        project
+ i ?wdm?: Compiling...
+i ?wdm?: wait until bundle finished: /
+! ?wdm?: Hash: c7167eb48835a79cba2c
+Version: webpack 4.19.0
+Time: 5904ms
+Built at: 2018-09-17 19:51:04
+    Asset     Size  Chunks             Chunk Names
+bundle.js  139 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40                                                                                                                         bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [bui                                                                                                                        lt]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 20 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production                                                                                                                        ' for this value. Set 'mode' option to 'development' or 'production' to                                                                                                                         enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn mor                                                                                                                        e: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+livereload-plugincss-loader node-sass sass-loader style-loader webpack-l
+npm i --save-dev css-loader node-sass sass-loader style-loader webpack-livereload-plugin
+
+> node-sass@4.9.3 install C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_modules                                                                                           \node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.9.3/win32-x64-64_bindi                                                                                           ng.node
+Download complete
+Binary saved to C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_modules\node-sass                                                                                           \vendor\win32-x64-64\binding.node
+Caching binary to C:\Users\Java EE Student 1\AppData\Roaming\npm-cache\node-sass\4.9.3\win32-x64-64_b                                                                                           inding.node
+
+> node-sass@4.9.3 postinstall C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_mod                                                                                           ules\node-sass
+> node scripts/build.js
+
+Binary found at C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_modules\node-sass                                                                                           \vendor\win32-x64-64\binding.node
+Testing binary
+Binary is fine
+npm WARN rollback Rolling back readable-stream@2.3.6 failed (this is probably harmless): EPERM: opera                                                                                           tion not permitted, rmdir 'C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_module                                                                                           s\fsevents\node_modules'
+npm WARN webpack-project@1.0.0 No description
+npm WARN webpack-project@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"                                                                                           darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ webpack-livereload-plugin@2.1.1
++ style-loader@0.23.0
++ css-loader@1.0.0
++ sass-loader@7.1.0
++ node-sass@4.9.3
+added 170 packages in 39.924s
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+livereload-plugin css-loader node-sass sass-loader style-loader webpack-l
+
+> node-sass@4.9.3 install C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_modules                                                                                           \node-sass
+> node scripts/install.js
+
+Cached binary found at C:\Users\Java EE Student 1\AppData\Roaming\npm-cache\node-sass\4.9.3\win32-x64                                                                                           -64_binding.node
+
+> node-sass@4.9.3 postinstall C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_mod                                                                                           ules\node-sass
+> node scripts/build.js
+
+Binary found at C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project\node_modules\node-sass                                                                                           \vendor\win32-x64-64\binding.node
+Testing binary
+Binary is fine
+npm WARN webpack-project@1.0.0 No description
+npm WARN webpack-project@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"                                                                                           darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ style-loader@0.23.0
++ sass-loader@7.1.0
++ css-loader@1.0.0
++ webpack-livereload-plugin@2.1.1
++ node-sass@4.9.3
+updated 5 packages in 19.751s
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ npm start
+
+> webpack-project@1.0.0 start C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project
+> webpack-dev-server
+
+Live Reload listening on port 35729
+
+i ?wds?: Project is running at http://localhost:8081/
+i ?wds?: webpack output is served from /
+
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ ! ?wdm?: Hash: 67c96aa1c492661b4bbd
+Version: webpack 4.19.0
+Time: 5516ms
+Built at: 2018-09-17 19:57:18
+    Asset     Size  Chunks             Chunk Names
+bundle.js  139 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8081 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8081 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 20 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode'                                                                                            option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/con                                                                                           cepts/mode/
+i ?wdm?: Compiled with warnings.
+^C
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+? ?wdm?: Hash: 0f48d88040e9090aa49c
+Version: webpack 4.19.0
+Time: 6275ms
+Built at: 2018-09-17 20:03:34
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode'                                                                                            option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/con                                                                                           cepts/mode/
+
+ERROR in ./app.js
+Module not found: Error: Can't resolve './src/scss/main.scss' in 'C:\Users\Java EE Student 1\Desktop\                                                                                           Новая папка\webpack-project'
+ @ ./app.js 2:0-29
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./app.js
+i ?wdm?: Failed to compile.
+i ?wdm?: Compiling...
+? ?wdm?: Hash: 1feff1b1152f3b7a5acf
+Version: webpack 4.19.0
+Time: 6587ms
+Built at: 2018-09-17 20:03:34
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8081 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8081 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode'                                                                                            option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/con                                                                                           cepts/mode/
+
+ERROR in ./app.js
+Module not found: Error: Can't resolve './src/scss/main.scss' in 'C:\Users\Java EE Student 1\Desktop\                                                                                           Новая папка\webpack-project'
+ @ ./app.js 2:0-29
+ @ multi (webpack)-dev-server/client?http://localhost:8081 ./app.js
+i ?wdm?: Failed to compile.
+i ?wdm?: Compiling...
+? ?wdm?: Hash: 8e7a9f32ca0638da9132
+Version: webpack 4.19.0
+Time: 317ms
+Built at: 2018-09-17 20:03:35
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 52 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode'                                                                                            option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/con                                                                                           cepts/mode/
+
+ERROR in ./app.js
+Module not found: Error: Can't resolve './src/scss/main.scss' in 'C:\Users\Java EE Student 1\Desktop\                                                                                           Новая папка\webpack-project'
+ @ ./app.js 2:0-30
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./app.js
+i ?wdm?: Failed to compile.
+? ?wdm?: Hash: e82f8ffcfcea03456881
+Version: webpack 4.19.0
+Time: 319ms
+Built at: 2018-09-17 20:03:35
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8081 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8081 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 52 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode'                                                                                            option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/con                                                                                           cepts/mode/
+
+ERROR in ./app.js
+Module not found: Error: Can't resolve './src/scss/main.scss' in 'C:\Users\Java EE Student 1\Desktop\                                                                                           Новая папка\webpack-project'
+ @ ./app.js 2:0-30
+ @ multi (webpack)-dev-server/client?http://localhost:8081 ./app.js
+i ?wdm?: Failed to compile.
+start
+
+Java EE Student 1@DESKTOP-AJUAHF0 MINGW64 ~/Desktop/Новая папка/webpack-project
+ npm start
+
+> webpack-project@1.0.0 start C:\Users\Java EE Student 1\Desktop\Новая папка\webpack-project
+> webpack-dev-server
+
+Live Reload disabled: listen EADDRINUSE :::35729
+i ?wds?: Project is running at http://localhost:8082/
+i ?wds?: webpack output is served from /
+? ?wdm?: Hash: 357edfe849e2684c33b1
+Version: webpack 4.19.0
+Time: 6188ms
+Built at: 2018-09-17 20:04:28
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8082 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8082 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [7] ./node_modules/url/util.js 314 bytes {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[12] ./node_modules/ansi-regex/index.js 135 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 52 bytes {0} [built]
+    + 11 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode'                                                                                            option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/con                                                                                           cepts/mode/
+
+ERROR in ./app.js
+Module not found: Error: Can't resolve './src/scss/main.scss' in 'C:\Users\Java EE Student 1\Desktop\                                                                                           Новая папка\webpack-project'
+ @ ./app.js 2:0-30
+ @ multi (webpack)-dev-server/client?http://localhost:8082 ./app.js
+i ?wdm?: Failed to compile.
+npm start
+i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+i ?wdm?: wait until bundle finished: /
+? ?wdm?: Hash: a596fcd30b2374a9a2fb
+Version: webpack 4.19.0
+Time: 8820ms
+Built at: 2018-09-17 20:06:59
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 186 bytes {0} [built] [failed] [1 error]
+    + 12 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+
+ERROR in ./src/sas/main.scss 2:4
+Module parse failed: Unexpected token (2:4)
+You may need an appropriate loader to handle this file type.
+| $color:red;
+> body{
+|     background:$color;
+| }
+ @ ./app.js 2:0-29
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./app.js
+i ?wdm?: Failed to compile.
+! ?wdm?: Hash: 5e5a55e4c63e976fab26
+Version: webpack 4.19.0
+Time: 9598ms
+Built at: 2018-09-17 20:07:00
+    Asset     Size  Chunks             Chunk Names
+bundle.js  145 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8081 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8081 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 1.22 KiB {0} [built]
+    + 16 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+! ?wdm?: Hash: ce513a88c28f209caa71
+Version: webpack 4.19.0
+Time: 9870ms
+Built at: 2018-09-17 20:07:00
+    Asset     Size  Chunks             Chunk Names
+bundle.js  145 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8082 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8082 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 1.22 KiB {0} [built]
+    + 16 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+! ?wdm?: Hash: 8bba4a02b2e1ec79a948
+Version: webpack 4.19.0
+Time: 7854ms
+Built at: 2018-09-17 20:07:26
+    Asset     Size  Chunks             Chunk Names
+bundle.js  145 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8082 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8082 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 1.22 KiB {0} [built]
+    + 16 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+? ?wdm?: Hash: bde70c19b3f26633f7f9
+Version: webpack 4.19.0
+Time: 7904ms
+Built at: 2018-09-17 20:07:26
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 187 bytes {0} [built] [failed] [1 error]
+    + 12 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+
+ERROR in ./src/sas/main.scss 2:4
+Module parse failed: Unexpected token (2:4)
+You may need an appropriate loader to handle this file type.
+| $color:grey;
+> body{
+|     background:$color;
+| }
+ @ ./app.js 2:0-29
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./app.js
+i ?wdm?: Failed to compile.
+! ?wdm?: Hash: c341c077f1c0c5c0e77a
+Version: webpack 4.19.0
+Time: 8103ms
+Built at: 2018-09-17 20:07:26
+    Asset     Size  Chunks             Chunk Names
+bundle.js  145 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8081 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8081 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 1.22 KiB {0} [built]
+    + 16 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+i ?wdm?: Compiling...
+? ?wdm?: Hash: fc3b28977921c9601ae4
+Version: webpack 4.19.0
+Time: 7862ms
+Built at: 2018-09-17 20:09:23
+ 1 asset
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8080 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8080 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 189 bytes {0} [built] [failed] [1 error]
+    + 12 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+
+ERROR in ./src/sas/main.scss 2:4
+Module parse failed: Unexpected token (2:4)
+You may need an appropriate loader to handle this file type.
+| $color:grey;
+> body{
+|     background:$color;
+| }
+ @ ./app.js 2:0-29
+ @ multi (webpack)-dev-server/client?http://localhost:8080 ./app.js
+i ?wdm?: Failed to compile.
+! ?wdm?: Hash: 3a632c89d72c5518b1de
+Version: webpack 4.19.0
+Time: 7917ms
+Built at: 2018-09-17 20:09:23
+    Asset     Size  Chunks             Chunk Names
+bundle.js  145 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8081 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8081 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 1.22 KiB {0} [built]
+    + 16 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+! ?wdm?: Hash: 28be288f2b78b342d979
+Version: webpack 4.19.0
+Time: 8157ms
+Built at: 2018-09-17 20:09:24
+    Asset     Size  Chunks             Chunk Names
+bundle.js  145 KiB       0  [emitted]  main
+Entrypoint main = bundle.js
+ [2] multi (webpack)-dev-server/client?http://localhost:8082 ./app.js 40 bytes {0} [built]
+ [3] (webpack)-dev-server/client?http://localhost:8082 7.78 KiB {0} [built]
+ [4] ./node_modules/url/url.js 22.8 KiB {0} [built]
+ [8] ./node_modules/querystring-es3/index.js 127 bytes {0} [built]
+[11] ./node_modules/strip-ansi/index.js 161 bytes {0} [built]
+[13] ./node_modules/loglevel/lib/loglevel.js 7.68 KiB {0} [built]
+[14] (webpack)-dev-server/client/socket.js 1.05 KiB {0} [built]
+[15] ./node_modules/sockjs-client/dist/sockjs.js 177 KiB {0} [built]
+[16] (webpack)-dev-server/client/overlay.js 3.58 KiB {0} [built]
+[17] ./node_modules/ansi-html/index.js 4.16 KiB {0} [built]
+[18] ./node_modules/html-entities/index.js 231 bytes {0} [built]
+[21] (webpack)/hot sync nonrecursive ^\.\/log$ 170 bytes {0} [built]
+[23] (webpack)/hot/emitter.js 77 bytes {0} [built]
+[25] ./app.js 51 bytes {0} [built]
+[26] ./src/sas/main.scss 1.22 KiB {0} [built]
+    + 16 hidden modules
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/
+i ?wdm?: Compiled with warnings.
+./src/sas/main.scss
