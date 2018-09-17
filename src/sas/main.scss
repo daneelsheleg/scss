@@ -1,8 +1,61 @@
 $color:grey;
-body{
-    background:$color;
+$main-body-color:#333;
+$main-block-color:rgb(250, 250, 162);
+$alt-body-color:white;
+
+@for $index from  1 through 5{
+    .size-#{$index}{
+        width:$index*120px !important; 
+        height: $index*70px !important;
+    }
 }
-p{
-    font-size: 40px;
-    text-align: center;
+
+body{
+    background:$main-body-color;
+}
+.block-wrapper{
+    background-color: $alt-body-color;
+    display: flex;
+    justify-content: space-between
+}
+.block{
+    background-color:$main-block-color;
+    justify-content: space-between;
+
+}
+.block{
+    background-color:$main-block-color;
+}
+.block-wrapper.big{
+display: flex;
+
+}
+.block-wrapper{
+    .block{
+        width: 100px;
+        height: 100px;
+    }
+
+    &.big{
+        .block{
+          width: 200px;
+            height: 200px;
+        }
+    }
+}
+.base-font-property{
+ color:$alt-body-color;
+ font-size: 50px;
+ margin: 10 auto 20px;
+ text-transform: uppercase;
+ text-align: end;
+}
+
+h2{
+    @extend .base-font-property;
+    font-size: 26px;
+}
+h3{
+    @extend .base-font-property;
+    text-align: center
 }
